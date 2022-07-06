@@ -1,3 +1,5 @@
+// logic-2
+
 
 // makeBricks
 function makeBricks(small, big, goal){
